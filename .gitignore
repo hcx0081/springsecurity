@@ -1,0 +1,16 @@
+# 项目排除路径
+/authenticationmanager/target/
+/code1/target/
+/config/target/
+/cors/target/
+/csrf/target/
+/data/target/
+/form/target/
+/hello/target/
+/json/target/
+/password/target/
+/rememberme/target/
+/session/target/
+/user/target/
+
+.idea
